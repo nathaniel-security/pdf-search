@@ -5,8 +5,9 @@ Searches for text in pdf but compared to a normal search like control + f this c
 ## Example
 Say you have a file hello.pdf with the lines
 
-'''
 #hello.pdf
+'''
+
 hello world this is my first program
 
 hello world this is my first piece of code written in c++
